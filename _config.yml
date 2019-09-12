@@ -4,3 +4,8 @@ plugins:
 typescript:
   build_dir: .tsbuild
   default_source_dir: _ts
+  in_source_build:
+    - source_dir: _ts
+      source_file: hoge.ts
+      destination: js/hoge.js
+      browserify: false
