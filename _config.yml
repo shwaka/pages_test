@@ -1,1 +1,6 @@
-theme: jekyll-theme-leap-day
+livereload: true
+plugins:
+  - jekyll-typescript
+typescript:
+  build_dir: .tsbuild
+  default_source_dir: _ts

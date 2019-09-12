@@ -1,2 +1,8 @@
+---
+layout: mylayout
+---
+
 # index
-test test
+This is the `index.md`.
+
+<script src="js/foo.js"></script>
