@@ -7,5 +7,5 @@ typescript:
   in_source_build:
     - source_dir: _ts
       source_file: hoge.ts
-      destination: js/hoge.js
+      destination: js/foo.js
       browserify: false
