@@ -5,6 +5,6 @@ layout: mylayout
 # index
 This is the `index.md`!!!
 
-modification
+modification again
 
 <script src="js/foo.js"></script>
